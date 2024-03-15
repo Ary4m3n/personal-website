@@ -3,8 +3,6 @@ title: "My Work"
 ---
 My academic projects and research span a range of topics, from developing innovative software solutions to exploring theoretical concepts in mathematics and statistics. Here, you'll find a portfolio of my internship work, projects, including coding endeavors, research papers, and collaborative works.
 
-
-<a href="files/resume.pdf">Download my Resume</a>
 <br/>
 
 <h3>Software Developer Intern @ BoxPay</h3>

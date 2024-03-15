@@ -9,6 +9,7 @@ website:
       - href: index.qmd
         text: Home
       - my_work.qmd
+      - resume.qmd
       - contact.qmd
 
 format:
