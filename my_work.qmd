@@ -1,0 +1,23 @@
+---
+title: "My Work"
+---
+My academic projects and research span a range of topics, from developing innovative software solutions to exploring theoretical concepts in mathematics and statistics. Here, you'll find a portfolio of my internship work, projects, including coding endeavors, research papers, and collaborative works.
+
+
+<a href="files/resume.pdf">Download my Resume</a>
+<br/>
+
+<h3>Software Developer Intern @ BoxPay</h3>
+At BoxPay, as a Back-End Software Engineer Intern, I harnessed AWS services to streamline payment processes and developed REST APIs, enhancing the payment infrastructure with reactive programming.
+
+<h3>1on1 Scheduling Website</h3>
+Engineered a scheduling platform from concept to launch, employing HTML, CSS, Bootstrap for the prototype, Django and REST for backend services, and React JS for the frontend.
+
+<h3>MLB Dashboard Web Application</h3>
+Developing a full-stack web application which will contain data for all MLB Players using Spring Boot and Spring MVC APIs for implementing the back-end and the React Framework to implement the front-end of the application.
+
+<h3>Stock Market Tracking and Analysis</h3>
+Tracked and displayed stock close price data for specific stocks on a scatterplot graph. Displayed graphs of multiple stocks all together for a better comparative analysis over varying periods of time.
+
+<h3>Analysis of Fire Incidents in Toronto</h3>
+Used R-Studio to make simulation, tests and the complete data analysis to assess the trend in dollar loss and the impact of civil planning in Toronto. The report was communicated using Quarto and presented through GitHub.

@@ -1,0 +1,10 @@
+---
+title: "Welcome to my website!"
+---
+<div class="main">
+  <img class="portrait" src="images/portrait.jpg" alt="My Portrait" />
+</div>
+
+<p class="center">Hi! I'm Aryaman Sharma, a passionate student currently pursuing a Computer Science Specialist degree, with minors in Mathematics and Statistics, at the University of Toronto.</p>
+
+<p class="center"> This website outlines my most prominent projects and experiences and also provides with contact information.<p>

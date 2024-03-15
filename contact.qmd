@@ -1,0 +1,13 @@
+---
+title: "Contact Information"
+---
+
+I'm always eager to connect with fellow students, professionals, and anyone interested in technology and innovation. Whether you have questions, opportunities, or just want to say hi, feel free to reach out.
+
+<br/>
+
+Email: <a href = "mailto:aryaman.sharma@mail.utoronto.ca?subject=More info...&body=I was on your website and would like to learn more about: %0A %0A">aryaman.sharma@mail.utoronto.ca</a>
+
+LinkedIn: <a href="https://www.linkedin.com/in/aryaman-sharma-321891107/">Aryaman Sharma</a>
+
+GitHub: <a href="https://github.com/Ary4m3n">Aryaman Sharma</a>
